@@ -1,0 +1,22 @@
+body{
+    background-color:cadetblue ;
+    margin: 30px;
+}
+
+h1{
+    color: white;
+}
+ul{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.week1{
+    color: white;
+}
+
+.quote{
+    color: red;
+}
