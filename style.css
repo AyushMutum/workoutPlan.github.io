@@ -1,0 +1,67 @@
+body{
+   font-family: 'Times New Roman', Times, serif;
+   background-color: blanchedalmond;
+   text-align: center;
+}
+
+
+.card-1{
+    position: sticky;
+    top:0;
+    margin: 12px auto;
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+    
+}
+
+.btn{
+    background-color: red;
+    padding: 15px;
+    margin: 24px;  
+    border: none;
+    color: white;
+    border-radius: 40px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.img-1{
+    position:relative;
+    width: 1200px;
+    margin: 10px 10px;
+    padding: 30px;   
+}
+
+.plan{
+    position:absolute;
+    top: 0;
+    margin: 500px;
+    color: white;
+    text-align: center;
+}
+
+.goal{
+    position:absolute;
+    /* position: fixed; */
+    right: 12px;
+    top: 0;
+    margin: 100px;
+    color: white;
+    text-align: right;
+}
+
+.link-plan{
+    color: white;
+    border: 2px solid white;
+    padding: 12px;
+    margin: 20px;
+}
+
+.para{
+    margin: 50px;
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+}
